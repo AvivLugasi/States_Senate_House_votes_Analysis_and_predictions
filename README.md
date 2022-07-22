@@ -25,5 +25,5 @@ then we improved the predictions for 2 of the states with the worst predicitons 
 proportions of D and R senators to create an image of what the up coming proportions of D and R senators will look like after the elections based on our<br> predicitons.<br>
       
 linkedIn of creators:<br>
-Aviv Lugasi: https://www.linkedin.com/in/aviv-lugasi-b89693235/
+Aviv Lugasi: https://www.linkedin.com/in/aviv-lugasi-b89693235/ <br>
 Guy Yehezkels:https://www.linkedin.com/in/guyyehezkel/
