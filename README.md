@@ -4,11 +4,11 @@ This is the work of me and my co-student Guy Yehezkel in the course Machine lear
 We have been provided with data regarding US elections, general county information, life expectancies and economic data.
 
 Our worked included:
-1)Exploring the data using tables, visualizations by using plots.
-2)Applying different methods of pre-processing to the data in order to prepare it for the models such as:
-      a)exclusion (features selection, null drop..etc).
-      b)data imputation(Using KNN).
-      c)features selection for the analysis and clustering of counties of 4 requested states by using classifiaction tree, to classify samples of counties
+1)Exploring the data using tables, visualizations by using plots.<br>
+2)Applying different methods of pre-processing to the data in order to prepare it for the models such as:<br>
+      a)exclusion (features selection, null drop..etc).<br>
+      b)data imputation(Using KNN).<br>
+      c)features selection for the analysis and clustering of counties of 4 requested states by using classifiaction tree, to classify samples of counties<br>
       of the requested states and selecting the features with the highest importances.
       d)features engineering(creating new features based on analysis we performed), for example we discovered that on presidential election's years
       the vote turn out in the House elections, presidential elections and the Senate elections is higher by up to 40%, therefor we created a feature to               indicate if a given year, was a presidential election year, in oreder to help us predict vote turn outs 
